@@ -11,9 +11,9 @@ input {
 }
 
 #cover {
-  /* background: #222 url('img/stars.jpg') center no-repeat; */
+  background: #222 url('img/river.jpg') center no-repeat;
   background-size: cover;
-  /* color: white; */
+  color: white;
   height: 100%;
   text-align: center;
   display: flex;
